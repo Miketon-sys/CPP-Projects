@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1776236575 source:c:\users\asus\desktop\code blocks\c++ files\c++ everyday practice\month of the year\main.cpp
+	<iostream>
+	"month.h"
+
+1776236880 c:\users\asus\desktop\code blocks\c++ files\c++ everyday practice\month of the year\month.h
+	<string>
+
+1776243260 source:c:\users\asus\desktop\code blocks\c++ files\c++ everyday practice\month of the year\monthtypeimp.cpp
+	<iostream>
+	"month.h"
+

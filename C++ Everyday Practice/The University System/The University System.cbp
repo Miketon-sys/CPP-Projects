@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="The University System" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc-mingw64" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/The University System" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc-mingw64" />
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/The University System" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc-mingw64" />
+			</Target>
+		</Build>
+		<Unit filename="department.h" />
+		<Unit filename="departmentImplementation.cpp" />
+		<Unit filename="faculty.h" />
+		<Unit filename="facultyImplementation.cpp" />
+		<Unit filename="main.cpp" />
+		<Unit filename="person.h" />
+		<Unit filename="personImplementation.cpp" />
+		<Unit filename="student.cpp" />
+		<Unit filename="student.h" />
+		<Unit filename="studentImplementation.cpp" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>

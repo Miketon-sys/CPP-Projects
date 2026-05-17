@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1778040565 source:c:\users\asus\desktop\code blocks\c++ files\c++ everyday practice\number guessing duel\main.cpp
+	<iostream>
+	"game.h"
+
+1778035541 source:c:\users\asus\desktop\code blocks\c++ files\c++ everyday practice\number guessing duel\player.cpp
+
+1778040371 source:c:\users\asus\desktop\code blocks\c++ files\c++ everyday practice\number guessing duel\playerimp.cpp
+	<iostream>
+	<string>
+	"player.h"
+
+1778038437 c:\users\asus\desktop\code blocks\c++ files\c++ everyday practice\number guessing duel\player.h
+	<string>
+
+1778041088 source:c:\users\asus\desktop\code blocks\c++ files\c++ everyday practice\number guessing duel\secretnumberimp.cpp
+	<iostream>
+	<string>
+	"secretNumber.h"
+
+1778040824 c:\users\asus\desktop\code blocks\c++ files\c++ everyday practice\number guessing duel\secretnumber.h
+
+1778040226 source:c:\users\asus\desktop\code blocks\c++ files\c++ everyday practice\number guessing duel\gameimp.cpp
+	<iostream>
+	<string>
+	"game.h"
+
+1778040565 c:\users\asus\desktop\code blocks\c++ files\c++ everyday practice\number guessing duel\game.h
+	"player.h"
+	"secretNumber.h"
+

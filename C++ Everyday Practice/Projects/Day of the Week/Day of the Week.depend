@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1776232051 source:c:\users\asus\desktop\code blocks\c++ files\c++ everyday practice\day of the week\daytypeimp.cpp
+	"day.h"
+	<iostream>
+
+1776232431 source:c:\users\asus\desktop\code blocks\c++ files\c++ everyday practice\day of the week\main.cpp
+	<iostream>
+	"day.h"
+
+1776231541 c:\users\asus\desktop\code blocks\c++ files\c++ everyday practice\day of the week\day.h
+	<string>
+

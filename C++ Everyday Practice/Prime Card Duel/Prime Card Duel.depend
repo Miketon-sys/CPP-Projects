@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1778126857 source:c:\users\asus\desktop\code blocks\c++ files\c++ everyday practice\prime card duel\cardimp.cpp
+	<iostream>
+	"card.h"
+
+1778122682 c:\users\asus\desktop\code blocks\c++ files\c++ everyday practice\prime card duel\card.h
+	<string>
+
+1778127324 source:c:\users\asus\desktop\code blocks\c++ files\c++ everyday practice\prime card duel\main.cpp
+	<iostream>
+	"cardGame.h"
+
+1778127409 source:c:\users\asus\desktop\code blocks\c++ files\c++ everyday practice\prime card duel\specialcardimp.cpp
+	<iostream>
+	"specialCard.h"
+
+1778122682 c:\users\asus\desktop\code blocks\c++ files\c++ everyday practice\prime card duel\specialcard.h
+	<string>
+	"card.h"
+
+1778127967 source:c:\users\asus\desktop\code blocks\c++ files\c++ everyday practice\prime card duel\cardgameimp.cpp
+	<iostream>
+	"hand.h"
+	"cardGame.h"
+
+1778127222 c:\users\asus\desktop\code blocks\c++ files\c++ everyday practice\prime card duel\hand.h
+	<string>
+	<vector>
+	"specialCard.h"
+
+1778127439 c:\users\asus\desktop\code blocks\c++ files\c++ everyday practice\prime card duel\cardgame.h
+	<string>
+	"hand.h"
+
+1778127300 source:c:\users\asus\desktop\code blocks\c++ files\c++ everyday practice\prime card duel\handimp.cpp
+	<iostream>
+	"hand.h"
+

@@ -1,0 +1,66 @@
+#include <iostream>
+/* Returns the sum of the digits of integer x */
+int digitSum(int x);
+
+/* Returns true if x is a prime number, false otherwise */
+bool isPrime(int x);
+
+/* Returns true if x is a Harshad number, false otherwise */
+bool isHarshad(int x);
+
+/* Stores all Harshad–Prime numbers within a range into array arr */
+void storeHarshadPrime(int arr[], int start, int end, int &size);
+
+/* Displays the Harshad–Prime numbers and their corresponding data */
+void displayHarshadPrime(int arr[], int size);
+
+
+int main()
+{
+
+}
+
+int digitSum(int x)
+{
+	int sum=0;
+	while(x>0)
+	{
+		sum+=(x%10);
+		x/=10;
+	}
+	return sum;
+}
+
+bool isPrime(int x)
+{
+	for(int i=2;i*i<=x;i++)
+	{
+		if(x%i==0)
+			return false;
+	}
+	return true;
+}
+
+bool isHarshad(int x)
+{
+	if(x%(digitSum(x)==0)
+	{
+		return true;
+	}
+	return false;
+}
+
+void storeHarshadPrime(int arr[], int start, int end, int &size)
+{
+	int index=0;
+	for(int i=start;i<=end;i++)
+	{
+		if(isHarshard(i) && isPrime(i%(digitSum(i)))
+		{
+			arr[index++]=i;
+		}
+	}
+	return;
+}
+
+

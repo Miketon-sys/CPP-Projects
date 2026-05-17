@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1777458189 source:c:\users\asus\desktop\code blocks\c++ files\c++ everyday practice\vehicle and car\main.cpp
+	<iostream>
+	"vehicle.h"
+	"car.h"
+
+1777457610 source:c:\users\asus\desktop\code blocks\c++ files\c++ everyday practice\vehicle and car\carimplementation.cpp
+	<iostream>
+	<string>
+	"car.h"
+
+1777457706 c:\users\asus\desktop\code blocks\c++ files\c++ everyday practice\vehicle and car\car.h
+	"vehicle.h"
+
+1777457706 c:\users\asus\desktop\code blocks\c++ files\c++ everyday practice\vehicle and car\vehicle.h
+	<string>
+
+1777456437 source:c:\users\asus\desktop\code blocks\c++ files\c++ everyday practice\vehicle and car\vehicleimplementations.cpp
+	<iostream>
+	<string>
+	"vehicle.h"
+

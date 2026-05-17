@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1743445502 source:c:\users\asus\desktop\code blocks\c++ files\c++ everyday practice\the university system\main.cpp
+	<iostream>
+
+1778422932 source:c:\users\asus\desktop\code blocks\c++ files\c++ everyday practice\the university system\student.cpp
+
+1778422965 source:c:\users\asus\desktop\code blocks\c++ files\c++ everyday practice\the university system\facultyimplementation.cpp
+	<iostream>
+	"faculty.h"
+
+1778422965 c:\users\asus\desktop\code blocks\c++ files\c++ everyday practice\the university system\faculty.h
+	"person.h"
+	<string>
+
+1778422970 c:\users\asus\desktop\code blocks\c++ files\c++ everyday practice\the university system\person.h
+	<string>
+
+1778423093 source:c:\users\asus\desktop\code blocks\c++ files\c++ everyday practice\the university system\personimplementation.cpp
+	<iostream>
+	"person.h"
+
+1778424185 source:c:\users\asus\desktop\code blocks\c++ files\c++ everyday practice\the university system\studentimplementation.cpp
+	<iostream>
+	"student.h"
+
+1778424195 c:\users\asus\desktop\code blocks\c++ files\c++ everyday practice\the university system\student.h
+	<string>
+	"person.h"
+

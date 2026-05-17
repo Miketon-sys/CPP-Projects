@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1778369080 source:c:\users\asus\desktop\code blocks\c++ files\c++ everyday practice\hospital system\main.cpp
+	<iostream>
+	"inpatient.h"
+	"ward.h"
+
+1778369134 source:c:\users\asus\desktop\code blocks\c++ files\c++ everyday practice\hospital system\inpatientimplementation.cpp
+	"inpatient.h"
+	<iostream>
+
+1778368613 c:\users\asus\desktop\code blocks\c++ files\c++ everyday practice\hospital system\inpatient.h
+	"patient.h"
+	<string>
+
+1778368114 c:\users\asus\desktop\code blocks\c++ files\c++ everyday practice\hospital system\patient.h
+	<string>
+
+1778368157 source:c:\users\asus\desktop\code blocks\c++ files\c++ everyday practice\hospital system\patientimplementation.cpp
+	"patient.h"
+	<iostream>
+
+1778368925 c:\users\asus\desktop\code blocks\c++ files\c++ everyday practice\hospital system\ward.h
+	"inpatient.h"
+	<string>
+	<vector>
+
+1778369080 source:c:\users\asus\desktop\code blocks\c++ files\c++ everyday practice\hospital system\wardimplementation.cpp
+	"ward.h"
+	<iostream>
+
